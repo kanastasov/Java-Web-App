@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1234974559.index
+\1.2-Deployment\src
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3326031450.index
+\1-GettingStarted\src
