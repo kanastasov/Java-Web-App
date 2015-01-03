@@ -1,5 +1,11 @@
 INDEX VERSION 1.126
-C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1234974559.index
-\1.2-Deployment\src
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2538119180.index
+\1.1-GettingStarted\src
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2807614508.index
+\2.1-Scriptlets\src
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1725762125.index
+\2.2-MVC\src
 C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3326031450.index
 \1-GettingStarted\src
+C:\Users\kanastasov\Desktop\Java Web App\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1234974559.index
+\1.2-Deployment\src
