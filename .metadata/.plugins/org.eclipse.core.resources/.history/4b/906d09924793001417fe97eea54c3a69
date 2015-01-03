@@ -1,0 +1,9 @@
+package beans;
+
+public class User {
+// beans store properties.
+	private String email;
+	private String password;
+	
+	
+}
