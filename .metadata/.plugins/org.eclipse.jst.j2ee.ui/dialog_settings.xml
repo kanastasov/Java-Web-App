@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="false" key="J2EE_EXPORT_SOURCE"/>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v7.0"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\kanastasov\Desktop\Java Web App\2.3-UserJar\2.3-UserJar.war"/>
+		<item value="C:\Users\kanastasov\Desktop\Java Web App\2.2-MVC\2.2-MVC.war"/>
+		<item value="C:\Users\kanastasov\Desktop\Java Web App\2.1-Scriptlets\2.1-Scriptlets.war"/>
+		<item value="C:\Users\kanastasov\Desktop\Java Web App\1.2-Deployment.war"/>
+	</list>
+</section>
